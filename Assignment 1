@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="utf-8">
+    <head>
+<title> MY PAGE</title>
+    </head>
+    <body>
+        <h1>DIVYADEEP WAGHMARE</h1>
+        <p>I am graduate from RTMNU in Computer Technology</p>
+        <ul>
+            <li>Singing</li>
+            <li>Dancing</li>
+            <li> Web surfing</li>
+        </ul>
+        
+        <a href="https://www.w3schools.com/">My fav website</a>
+            
+    </body>
+</html>
